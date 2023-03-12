@@ -1,3 +1,3 @@
-### git-workflow-code
+### Tips and Trick JavaScript 🚀
 
-this is Nghia Boo
+[Tự học Nodejs và JavaScript](https://bom.so/yH8ar2)
